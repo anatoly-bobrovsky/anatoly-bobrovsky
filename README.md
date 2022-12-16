@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif"/>
+  <img src="https://media.giphy.com/media/TLK2EKaMt7PqijvGT9/giphy.gif" width="150"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/anatoly-bobrovsky-074a76257/">
@@ -9,17 +9,17 @@
 
 ---
 
-<img src="https://media.giphy.com/media/TLK2EKaMt7PqijvGT9/giphy.gif" width="250px"/>
-
 ### :man_technologist: About Me : 
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+<img src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif">
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Machine Learning Engineer  from Kazakhstan.
 
-- :seedling: Exploring Technical Content Writing.
+- :telescope: I'm currently working on STT projects.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :robot: In my free time, I read tech articles about AI.
+
+- 🎵: Also I like to play musical instruments.
 
 ---
 
