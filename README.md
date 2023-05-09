@@ -16,7 +16,7 @@
 
 <img src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif">
 
-I am a Machine Learning Engineer  from Kazakhstan.
+I am a Machine Learning Engineer  from Kyrgyzstan.
 
 - :telescope: I'm currently working on STT projects.
 
