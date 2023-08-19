@@ -16,9 +16,9 @@
 
 <img src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif">
 
-I am a Machine Learning Engineer  from Kyrgyzstan.
+I am a Full Stack ML Engineer.
 
-- :telescope: I'm currently working on STT projects.
+- :telescope: I'm currently working on CV project.
 
 - :robot: In my free time, I read tech articles about AI.
 
