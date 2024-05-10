@@ -16,7 +16,7 @@
 
 <img src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif">
 
-I am a Full Stack ML Engineer.
+I am a Python Backend Developer with a strong background in machine learning.
 
 - :telescope: I'm currently working on CV project.
 
@@ -34,7 +34,7 @@ I am a Full Stack ML Engineer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" **alt="Numpy" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" **alt="Pytorch" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" **alt="Django" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" **alt="FastAPI" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
