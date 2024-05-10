@@ -20,7 +20,7 @@ I am a Python Backend Developer with a strong background in machine learning.
 
 - :telescope: I'm currently working on CV project.
 
-- :robot: In my free time, I read tech articles about AI.
+- :robot: In my free time, I read tech articles.
 
 - 🎵: Also I like to play musical instruments.
 
