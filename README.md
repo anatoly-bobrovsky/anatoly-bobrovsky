@@ -16,7 +16,7 @@
 
 <img src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif">
 
-I am a Python Backend Developer with a strong background in mathematics and machine learning.
+I am a Python Backend Developer with a background in mathematics and machine learning.
 
 - :robot: In my free time, I read tech articles.
 
